@@ -2,8 +2,8 @@ Caso 1 de Infraestructura computacional
 
 Integrantes:
 
-Nicolas Diaz Montaña
+-Nicolas Diaz Montaña
 
-Thais Tamaio
+-Thais Tamaio
 
-Juan Esteban Jimenez
+-Juan Esteban Jimenez
